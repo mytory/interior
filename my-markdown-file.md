@@ -12,4 +12,4 @@ Automatic update. Just push it. And refresh on view page.
 > It's real awesom!!  
 > \- sewonist
 
-Many people love it.  
+Many people love it..
