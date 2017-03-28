@@ -19,3 +19,5 @@ But it has a bug.
 Etag changed?
 
 cache control is added.
+
+Wow It's fast.
