@@ -13,3 +13,5 @@ Automatic update. Just push it. And refresh on view page.
 > \- sewonist
 
 Many people love it..
+
+But it has a bug.
