@@ -15,3 +15,5 @@ Automatic update. Just push it. And refresh on view page.
 Many people love it..
 
 But it has a bug.
+
+Etag changed?
