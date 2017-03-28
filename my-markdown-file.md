@@ -21,3 +21,5 @@ Etag changed?
 cache control is added.
 
 Wow It's fast.
+
+removed a line replace https with http. 
