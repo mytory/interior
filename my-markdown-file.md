@@ -17,3 +17,5 @@ Many people love it..
 But it has a bug.
 
 Etag changed?
+
+cache control is added.
